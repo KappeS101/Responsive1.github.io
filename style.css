@@ -32,10 +32,10 @@ body {
     margin-bottom: 0;
     width: 50%;
     }
-    .container, section, aside {
+    .container, section{
     border-radius: 6px;
     }
-    section, aside {
+    section{
     background: #2db34a;
     color: #fff;
     margin: 1.858736059%;
@@ -45,8 +45,4 @@ body {
     section {
     float: left;
     width: 63.197026%;
-    }
-    aside {
-    float: right;
-    width: 29.3680297%;
     }
